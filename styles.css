@@ -1,0 +1,50 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    background-image: url(wall.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.btn {
+    border-radius: 999px;
+    font-size: 2rem;
+}
+
+.btn-primary {
+    background-color: rebeccapurple;
+    border: none;
+}
+
+h1, h3 {
+    color: #ebebeb;
+}
+
+h1 {
+    font-size: 8rem;
+}
+
+.brackets {
+    color: rebeccapurple;
+    font-size: 10rem;
+}
+
+h3 {
+    font-size: 3rem;
+}
+
+p {
+    font-size: 2rem;
+}
+
+p, .icons {
+    color: #1c1c1b;
+}
+
+.icons {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
